@@ -1,0 +1,32 @@
+.heroContainer{
+    background-image: url(./assets/image/hero-bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /* padding: 10rem;     */
+}
+.callContainer{
+    background-color: rgb(81, 209, 81);
+}
+.callContent button{
+    height: 2.5rem;
+    width: 10rem;
+    border-radius: 39%;
+    background: none;
+    /* border-color: rgb(138, 135, 135); */
+}
+.callContent a{
+    color: white;
+}
+.loremCard a{
+    color: rgb(48, 44, 44);
+}
+.loremHeader :hover i{
+    background-color: white !important;
+    color: rgb(117, 215, 117) !important;
+    border: 0.1px solid rgb(136, 243, 136);
+}
+.contactContainer{
+    background-color: rgb(69, 64, 64);
+}
+
